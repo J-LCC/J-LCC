@@ -12,10 +12,10 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
 
 - Soy un apasionado del mundo de los datos y la economía y si tú también lo eres, deberias echar un ojo a estos libros 👀:
 
-  - An Introduction to Statistical Learning
-  - R for Data Science
-  - Keynes vs Hayek
-  - Por qué fracasan los países
+  - **An Introduction to Statistical Learning**. El santo grial para entender las bases de los modelos estadísticos.
+  - **R for Data Science**. Manejarse en R nunca habia sido tan rápido que con este manual.
+  - **Keynes vs Hayek**. Las dos mentes economicas más influyentes del siglo XX cuyo choque forjó las economias modernas.
+  - **Por qué fracasan los países**. Una buena dosis de historia y economia para entender que lleva a un país a prosperar.
 
 
 
