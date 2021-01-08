@@ -24,12 +24,12 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)][codewars]
 
 [<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-
-[<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][linkedin](mailto:'joseluiscanillas@gmail.com')
+[<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 
 
 
 
 [linkedin]: https://www.linkedin.com/in/j-lcc/
+[gmail]: mailto:'joseluiscanillas@gmail.com'
 [codewars]: https://www.codewars.com/users/J-LCC
