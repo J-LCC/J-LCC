@@ -1,6 +1,6 @@
 ### Hola, soy Jose Luis Canillas 👋
 
-Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos que he ido desarrollando como analista de datos 😌
+Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos que he ido desarrollando como analista de datos y por qué no, algunas cosas que seguro que te interesan 😌
 
 **¿Sobre mí?**
 
