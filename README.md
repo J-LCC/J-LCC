@@ -1,4 +1,4 @@
-### Hola, soy Jose Luis 👋
+## Hola, soy Jose Luis 👋
 
 Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos que he ido desarrollando como analista de datos y por qué no, algunas cosas que seguro que te interesan 😌
 
@@ -19,17 +19,21 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
   
 
   
-  #### Proyectos
+### Proyectos
 
-- [R-Packages:](https://github.com/J-LCC/R-Packages) R nos brinda una gran cantidad de librerías pocos conocidas, pero increiblemente eficientes, ¿Qué tal si les echas un ojo a las que te recomiento en este proyecto? 🙄
+- [**R-Packages:**](https://github.com/J-LCC/R-Packages) R nos brinda una gran cantidad de librerías pocos conocidas, pero increíblemente eficientes, ¿Qué tal si les echas un ojo a las que te recomiendo en este proyecto? 🙄
+- [**TMDb Analysis:**](https://github.com/J-LCC/TMDb_analysis) Analizar la industria cinematográfica puede ser muy útil para conocer las tendencia del mercado y tendencias culturales, ¿Quieres conocer más sobre la evolución de la industria? Pues echa un ojo a este proyecto 🎬
+- [**Happiness Ranking:**](https://github.com/J-LCC/Happiness_ranking) Existen una gran cantidad de factores socio-económicos que influyen en la felicidad de una persona, si lo llevamos a nivel macro, podemos analizar la felicidad de los países brindandonos conclusiones muy interesantes 🎭
+- [**Location Analysis:**](https://github.com/J-LCC/Location-Analytics) El análisis espacial es tremendamente útil para aumentar la eficiencia de tu negocio y permite tomar decisiones inteligentes, ya sea localizando nichos de mercado e incrementando o retirando esfuerzos en diversas zonas según las necesidades de la empresa. 🌍
+- [**Análisis CO2**](https://github.com/J-LCC/Analisis_CO2) Mi primer proyecto de ciencia de datos, donde a través de un análisis económico y de variables de industria y contaminantes, concluimos con un conocimiento más profundo en la relación industria-contaminación. ⛽️
 
 
   
-  #### Lenguajes
+### Lenguajes
   <img height="40" src="https://cdn.svgporn.com/logos/r-lang.svg"> <img height="40" src="https://cdn.svgporn.com/logos/python.svg">   <img height="40" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="40" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"> <img height="40" src="https://www.itop.es/templates/yootheme/cache/pentaho-color-itop-262f3056.png"> 
 
 
-  #### Además puedes echar un vistazo...
+### Además puedes echar un vistazo...
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)][codewars]
 
