@@ -1,4 +1,4 @@
-### Hola, soy Jose Luis Canillas 👋
+### Hola, soy Jose Luis 👋
 
 Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos que he ido desarrollando como analista de datos y por qué no, algunas cosas que seguro que te interesan 😌
 
@@ -15,11 +15,21 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
   - **An Introduction to Statistical Learning**. El santo grial para entender las bases de los modelos estadísticos.
   - **R for Data Science**. Manejarse en R nunca había sido tan rápido que con este manual.
   - **Keynes vs Hayek**. Las dos mentes económicas más influyentes del siglo XX cuyo choque forjó las economías modernas.
-  - **Por qué fracasan los países**. Una buena dosis de historia y economía para entender que lleva a un país a prosperar.
+  - **Por qué fracasan los países**. Una buena dosis de historia y economía para entender que lleva a un país a prosperar o fracasar.
+  
+
+  
+  #### Proyectos
+
+- [R-Packages:](https://github.com/J-LCC/R-Packages) R nos brinda una gran cantidad de librerías pocos conocidas, pero increiblemente eficientes, ¿Qué tal si les echas un ojo a las que te recomiento en este proyecto? 🙄
 
 
+  
+  #### Lenguajes
+  <img height="40" src="https://cdn.svgporn.com/logos/r-lang.svg"> <img height="40" src="https://cdn.svgporn.com/logos/python.svg">   <img height="40" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="40" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"> <img height="40" src="https://www.itop.es/templates/yootheme/cache/pentaho-color-itop-262f3056.png"> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-LCC&layout=compact&theme=dark)
+
+  #### Además puedes echar un vistazo...
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)][codewars]
 
