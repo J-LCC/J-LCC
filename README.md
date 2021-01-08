@@ -19,7 +19,7 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-LCC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-LCC&layout=compact)]
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)
 
