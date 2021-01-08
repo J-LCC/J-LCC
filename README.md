@@ -30,7 +30,7 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
 
   
 ### Lenguajes
-  <img height="40" src="https://cdn.svgporn.com/logos/r-lang.svg"> <img height="40" src="https://cdn.svgporn.com/logos/python.svg">   <img height="40" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="40" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"> <img height="40" src="https://www.itop.es/templates/yootheme/cache/pentaho-color-itop-262f3056.png"> <img height="40" src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png">
+  <img height="40" src="https://cdn.svgporn.com/logos/r-lang.svg"> <img height="40" src="https://cdn.svgporn.com/logos/python.svg">   <img height="40" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="40" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"> <img height="40" src="https://www.itop.es/templates/yootheme/cache/pentaho-color-itop-262f3056.png"> <img height="40" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
 
 
 ### Además puedes echar un vistazo...
