@@ -21,6 +21,11 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-LCC&layout=compact)
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)
+[![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)][codewars]
+
+[<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 
+
+[linkedin]: https://www.linkedin.com/in/j-lcc/
+[codewars]: https://www.codewars.com/users/J-LCC
