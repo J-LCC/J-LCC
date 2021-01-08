@@ -25,7 +25,9 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
 
 [<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
-[![Gmail Badge](https://img.shields.io/badge/-joseluiscanillas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseluiscanillas@gmail.com)](mailto:'joseluiscanillas@gmail.com')
+[<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][linkedin](mailto:'joseluiscanillas@gmail.com')
+
+
 
 
 
