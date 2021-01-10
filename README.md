@@ -33,7 +33,7 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
   <img height="40" src="https://cdn.svgporn.com/logos/r-lang.svg"> <img height="40" src="https://cdn.svgporn.com/logos/python.svg">   <img height="40" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="40" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"> <img height="40" src="https://www.itop.es/templates/yootheme/cache/pentaho-color-itop-262f3056.png"> <img height="38" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
 
 
-### Además puedes echar un vistazo...
+### Además puedes echar un vistazo a mi perfil de Codewars y redes
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)][codewars]
 
