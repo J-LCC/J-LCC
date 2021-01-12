@@ -33,9 +33,11 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
   <img height="40" src="https://cdn.svgporn.com/logos/r-lang.svg"> <img height="40" src="https://cdn.svgporn.com/logos/python.svg">   <img height="40" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="40" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"> <img height="40" src="https://www.itop.es/templates/yootheme/cache/pentaho-color-itop-262f3056.png"> <img height="38" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
 
 
-### Además puedes echar un vistazo a mi perfil de Codewars y redes
+### Además puedes echar un vistazo a mis perfiles de Codewars, RPubs y redes sociales
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/J-LCC/badges/large)][codewars]
+
+[<img height="50" src="https://user-images.githubusercontent.com/54073772/104338913-52ef4580-54f7-11eb-8d60-833e8005d492.PNG">][rpubs]
 
 [<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Jose Luis | LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
@@ -47,3 +49,4 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
 [linkedin]: https://www.linkedin.com/in/j-lcc/
 [gmail]: mailto:'joseluiscanillas@gmail.com'
 [codewars]: https://www.codewars.com/users/J-LCC
+[rpubs]: https://rpubs.com/JLCC
