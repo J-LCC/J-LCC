@@ -11,6 +11,7 @@ Bienvenido a mi perfil de Github, en él encontrarás algunos de los proyectos q
   
 ### Proyectos
 
+- [**Fraud-detection**](https://github.com/J-LCC/Fraud-detection). Una solución automatizada y completa de un proyecto de data science para detectar fraude financiero. Repasamos todas las fases de un proceso analítico desde el EDA hasta la monitorización del modelo, todo ello en Python.
 - [**R-Packages:**](https://github.com/J-LCC/R-Packages) R nos brinda una gran cantidad de librerías pocos conocidas, pero increíblemente eficientes, ¿Qué tal si les echas un ojo a las que te recomiendo en este proyecto? 🙄
 - [**TMDb Analysis:**](https://github.com/J-LCC/TMDb_analysis) Analizar la industria cinematográfica puede ser muy útil para conocer las tendencia del mercado y tendencias culturales, ¿Quieres conocer más sobre la evolución de la industria? Pues echa un ojo a este proyecto. 🎬
 - [**Happiness Ranking:**](https://github.com/J-LCC/Happiness_ranking) Existen una gran cantidad de factores socio-económicos que influyen en la felicidad de una persona, si lo llevamos a nivel macro, podemos analizar la felicidad de los países brindandonos conclusiones muy interesantes. 🎭
